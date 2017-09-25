@@ -14,3 +14,5 @@
   - [6] Jaderberg, Max, et al. "Decoupled neural interfaces using synthetic gradients." arXiv preprint arXiv:1608.05343 (2016). [pdf](https://arxiv.org/pdf/1608.05343.pdf) (Innovation of Training Method,Amazing Work)
   - [7] Kenji Kawaguchi. "Deep Learning without Poor Local Minima" [pdf](https://papers.nips.cc/paper/6112-deep-learning-without-poor-local-minima.pdf) (great work on fundation of deep learning)
   - [8] Hinton, Boltzmann machine related papers.
+  - [10] information geometry and Boltzmann machine related papers. [Geometry and Expressive Power of Conditional Restricted Boltzmann Machines](http://www.jmlr.org/papers/volume16/montufar15b/montufar15b.pdf)
+  - [9] Naftali Tishby, [Information Theory of Deep Learning.](https://www.youtube.com/watch?v=bLqJHjXihK8&feature=youtu.be)
