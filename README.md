@@ -13,4 +13,4 @@
   - [5] Graves, Alex, Abdel-rahman Mohamed, and Geoffrey Hinton. "Speech recognition with deep recurrent neural networks." 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013. [pdf](https://arxiv.org/pdf/1303.5778.pdf) (RNN)
   - [6] Jaderberg, Max, et al. "Decoupled neural interfaces using synthetic gradients." arXiv preprint arXiv:1608.05343 (2016). [pdf](https://arxiv.org/pdf/1608.05343.pdf) (Innovation of Training Method,Amazing Work)
   - [7] Kenji Kawaguchi. "Deep Learning without Poor Local Minima" [pdf](https://papers.nips.cc/paper/6112-deep-learning-without-poor-local-minima.pdf) (great work on fundation of deep learning)
-
+  - [8] Hinton, Boltzmann machine related papers.
