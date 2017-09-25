@@ -16,9 +16,11 @@
   
 ### Thoery of Deep learning papers:
   
-  - [8] Hinton, Boltzmann machine related papers.[Introduction](https://en.wikipedia.org/wiki/Boltzmann_machine)
-  - [9] information geometry and Boltzmann machine related papers. [Geometry and Expressive Power of Conditional Restricted Boltzmann Machines](http://www.jmlr.org/papers/volume16/montufar15b/montufar15b.pdf)
-  - [10] Naftali Tishby, [Information Theory of Deep Learning.](https://www.youtube.com/watch?v=bLqJHjXihK8&feature=youtu.be)
-  - [11] 中文材料[波尔兹曼机](https://deeplearning4j.org/cn/restrictedboltzmannmachine)
-  - [12] 会议[Deep Learning: Theory, Algorithms, and Applications. Berlin, June 2017](https://www.youtube.com/watch?v=Vx3uN0dt8M8&list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW)
+  - [0] Hinton, Boltzmann machine related papers.[Introduction](https://en.wikipedia.org/wiki/Boltzmann_machine)
+  - [1] information geometry and Boltzmann machine related papers. [Geometry and Expressive Power of Conditional Restricted Boltzmann Machines](http://www.jmlr.org/papers/volume16/montufar15b/montufar15b.pdf)
+  - [2] Naftali Tishby, [Information Theory of Deep Learning.](https://www.youtube.com/watch?v=bLqJHjXihK8&feature=youtu.be)
+  - [3] 中文材料[波尔兹曼机](https://deeplearning4j.org/cn/restrictedboltzmannmachine)
+  - [4] 会议[Deep Learning: Theory, Algorithms, and Applications. Berlin, June 2017](https://www.youtube.com/watch?v=Vx3uN0dt8M8&list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW)
   
+### Deep learning and Quantum information:
+ - [0]  Xun Gao, Lu-Ming Duan [https://arxiv.org/pdf/1701.05039.pdf](https://arxiv.org/pdf/1701.05039.pdf)
