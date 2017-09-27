@@ -13,6 +13,19 @@
   - [5] Graves, Alex, Abdel-rahman Mohamed, and Geoffrey Hinton. "Speech recognition with deep recurrent neural networks." 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013. [pdf](https://arxiv.org/pdf/1303.5778.pdf) (RNN)
   - [6] Jaderberg, Max, et al. "Decoupled neural interfaces using synthetic gradients." arXiv preprint arXiv:1608.05343 (2016). [pdf](https://arxiv.org/pdf/1608.05343.pdf) (Innovation of Training Method,Amazing Work)
   - [7] Kenji Kawaguchi. "Deep Learning without Poor Local Minima" [pdf](https://papers.nips.cc/paper/6112-deep-learning-without-poor-local-minima.pdf) (great work on fundation of deep learning)
+  
+### Convolutional Neural Networks Architectures [by PP]
+- [1] AlexNet. ImageNet Classification with Deep Convolutional Neural Networks.
+- [2] VGG-Net. Very Deep Convolutional Networks for Large-Scale Image Recognition.
+- [3] GooLeNet. Going Deeper with Convolutions. 
+- [4] InceptionV3. Rethinking the Inception Architecture for Computer Vision.
+- [5] ResNet. Deep Residual Learning for Image Recognition.
+- [6] InceptionV4. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.
+- [7] Deep Networks with Stochastic Depth.
+- [8] DenseNet. Densely Connected Convolutional Networks.
+- [9] Multi-Scale DenseNet. Multi-Scale Dense Convolutional Networks for Efficient Prediction.
+- [10] Xception. Xception: Deep Learning with Depthwise Separable Convolutions.
+
   
 ### Theory of Deep learning papers:
   
