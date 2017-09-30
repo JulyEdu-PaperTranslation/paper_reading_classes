@@ -6,7 +6,7 @@
 - topic: deep learning
 - objective: Understanding rescent history of deep learning
 - paper list:
-  - [0] LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." Nature 521.7553 (2015): 436-444. [pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) (Three Giants' Survey)
+  - [0] (学生阅读)LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." Nature 521.7553 (2015): 436-444. [pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) (Three Giants' Survey)
   - [1] （管）Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorithm for deep belief nets." Neural computation 18.7 (2006): 1527-1554. [pdf](http://www.cs.toronto.edu/~hinton/absps/ncfast.pdf) (Deep Learning Eve)
   - [2] （邓）Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "Reducing the dimensionality of data with neural networks." Science 313.5786 (2006): 504-507. [pdf](http://www.cs.toronto.edu/~hinton/science.pdf) (Milestone, Show the promise of deep learning)
   - [3] （李）Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012. [pdf](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (AlexNet, Deep Learning Breakthrough)
